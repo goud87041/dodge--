@@ -115,7 +115,7 @@ button:focus{
 	width: 45%;
 	margin-top: 20px
 }
-.get-started > button{
+.get-started > a button{
 	width: 50%;
 	border: 0;
 	outline: none;
